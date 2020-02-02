@@ -1,0 +1,12 @@
+{
+    "FoodList": [
+        {
+            "color": "#F80D0D",
+            "points": 20
+        },
+        {
+            "color": "#0C22DE",
+            "points": 30
+        }
+    ]
+}
